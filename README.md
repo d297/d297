@@ -1,4 +1,4 @@
-[!Header,(https://github.com/d297/d297/blob/main/assets/d297.png)]
+[!Header(https://github.com/d297/d297/blob/main/assets/d297.png)]
 
 About me
 
