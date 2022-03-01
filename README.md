@@ -1,6 +1,6 @@
 ![Header](https://github.com/d297/d297/blob/main/assets/d297.png)
 
-## I'm Dmitry Kostenko, a novice Front-End developer living in Novosibirsk.
+### I'm Dmitry Kostenko, a novice Front-End developer living in Novosibirsk.
 
 ### Front-end:
 
