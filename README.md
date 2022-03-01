@@ -11,11 +11,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=E5D3FF)
 
-Follow me
-
-### Hi there 👋
-
-# My certificates:
+### My certificates:
 
 <a href="https://www.freecodecamp.org/certification/fccc245b06e-e276-4cd3-9f9e-0b85bd165d63/responsive-web-design">[HTML and CSS]</a>
 
