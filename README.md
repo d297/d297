@@ -1,6 +1,16 @@
+Header
+
+About me
+
+Languages and Tools
+
+Follow me
+
 ### Hi there 👋
+
 My certificates:
 HTML and CSS - https://www.freecodecamp.org/certification/fccc245b06e-e276-4cd3-9f9e-0b85bd165d63/responsive-web-design
+
 <!--
 **d297/d297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
