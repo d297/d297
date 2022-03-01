@@ -1,8 +1,16 @@
 [![Header](https://github.com/d297/d297/blob/main/assets/d297.png)]
 
-About me
+## I'm Dmitry Kostenko, a novice Front-End developer living in Novosibirsk.
 
-Languages and Tools
+### Front-end:
+
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
+![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
 Follow me
 
