@@ -17,7 +17,7 @@ Follow me
 
 # My certificates:
 
-![HTML and CSS](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=E5D3FF)(https://www.freecodecamp.org/certification/fccc245b06e-e276-4cd3-9f9e-0b85bd165d63/responsive-web-design)
+<a href="https://www.freecodecamp.org/certification/fccc245b06e-e276-4cd3-9f9e-0b85bd165d63/responsive-web-design">[HTML and CSS](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=web&logoColor=E5D3FF)</a>
 
 <!--
 **d297/d297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
